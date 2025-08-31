@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "892801673022",
+    "project_id": "manualauthenticationpractice",
+    "storage_bucket": "manualauthenticationpractice.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892801673022:android:82cb6714e274d5eaafae6f",
+        "android_client_info": {
+          "package_name": "com.example.loginregwithotp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQIpkvet9ONhmr9JZ6rCmqmFrdovsUo4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892801673022:android:ee59b227a201bf7fafae6f",
+        "android_client_info": {
+          "package_name": "com.example.manualauthenticationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQIpkvet9ONhmr9JZ6rCmqmFrdovsUo4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
